@@ -1,0 +1,446 @@
+{
+  "works": [
+    {
+      "title": "ASU 1ST ONE-MAN LIVE\n“BIRTH”",
+      "card": "ASU\n1ST\nONE\nMAN",
+      "category": "PACKAGE",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        },
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        }
+      ]
+    },
+    {
+      "title": "ASU 2ND\nONE-MAN",
+      "card": "ASU\n2nd\nONE\nMAN",
+      "category": "PACKAGE",
+      "color": "#ff5e00",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        },
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        }
+      ]
+    },
+    {
+      "title": "SHANFRO\n28 PV",
+      "card": "SHAN\nFRO\n28\nPV",
+      "category": "PV GRAPHICS",
+      "color": "#0080ff",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        },
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        }
+      ]
+    },
+    {
+      "title": "ASU BEMA\nTWO-MAN",
+      "card": "ASU\nBEMA\nTWO\nMAN",
+      "category": "PACKAGE",
+      "color": "#5d22ff",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        },
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        },
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        }
+      ]
+    },
+    {
+      "title": "KGR BC\nTYPE",
+      "card": "KGR\nBC\n-\nTYPE",
+      "category": "TYPOGRAPHY",
+      "color": "#e60000",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        },
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        }
+      ]
+    },
+    {
+      "title": "KRHP 25\nITEM",
+      "card": "krhp\n25\n-\nitem",
+      "category": "GOODS",
+      "color": "#0090ff",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        },
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        }
+      ]
+    },
+    {
+      "title": "FCS 27\nASIA",
+      "card": "FCS\n27\n-\nASIA",
+      "category": "TOTAL DESIGN",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        },
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        }
+      ]
+    },
+    {
+      "title": "ASU 2ND\nONE-MAN",
+      "card": "ASU\n2nd\nONE\nMAN",
+      "category": "LOGO",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        },
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        }
+      ]
+    },
+    {
+      "title": "ASU 2ND\nONE-MAN",
+      "card": "ASU\n2nd\nONE\nMAN",
+      "category": "LOGO",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        },
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        },
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        }
+      ]
+    },
+    {
+      "title": "ASU 2ND\nONE-MAN",
+      "card": "ASU\n2nd\nONE\nMAN",
+      "category": "LOGO",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        },
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        }
+      ]
+    },
+    {
+      "title": "ASU 2ND\nONE-MAN",
+      "card": "ASU\n2nd\nONE\nMAN",
+      "category": "LOGO",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        },
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        }
+      ]
+    },
+    {
+      "title": "ASU 2ND\nONE-MAN",
+      "card": "ASU\n2nd\nONE\nMAN",
+      "category": "LOGO",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        },
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        }
+      ]
+    },
+    {
+      "title": "ASU 2ND\nONE-MAN",
+      "card": "ASU\n2nd\nONE\nMAN",
+      "category": "LOGO",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        },
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        }
+      ]
+    },
+    {
+      "title": "ASU 2ND\nONE-MAN",
+      "card": "ASU\n2nd\nONE\nMAN",
+      "category": "LOGO",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        },
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        },
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        }
+      ]
+    },
+    {
+      "title": "ASU 2ND\nONE-MAN",
+      "card": "ASU\n2nd\nONE\nMAN",
+      "category": "LOGO",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        },
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        }
+      ]
+    },
+    {
+      "title": "ASU 2ND\nONE-MAN",
+      "card": "ASU\n2nd\nONE\nMAN",
+      "category": "LOGO",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/drftln.png",
+          "scrim": 0
+        },
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        }
+      ]
+    },
+    {
+      "title": "ASU 2ND\nONE-MAN",
+      "card": "ASU\n2nd\nONE\nMAN",
+      "category": "LOGO",
+      "color": "#b79856",
+      "year": "2026",
+      "credit": "Art Direction: hiroto sugawara（femt）\nDesign: Sonoda（TO2KYO2）\n\nClient:thinkr",
+      "images": [
+        {
+          "src": "assets/works/eureka-seven-ao.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/madoka-magica.webp",
+          "scrim": 1
+        },
+        {
+          "src": "assets/works/realive.webp",
+          "scrim": 0.6
+        },
+        {
+          "src": "assets/works/beatless.webp",
+          "scrim": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WORKS | SONODA</title>
+  <meta name="description" content="グラフィックデザイナー Sonoda のポートフォリオサイト">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="works">
+    <div class="works__bgs" id="works-bgs">
+      <div class="works__bg"></div>
+    </div>
+    <div class="works__scrim" id="works-scrim"></div>
+
+    <header class="site-header site-header--dark">
+      <a class="trim" href="index.html">sonoda</a>
+      <nav class="site-header__nav" aria-label="メイン">
+        <a class="trim" href="index.html" aria-current="page">works</a>
+        <a class="trim" href="about.html#about">about</a>
+        <a class="trim" href="about.html#contact">contact</a>
+      </nav>
+    </header>
+
+    <div class="works__inner">
+
+      <div class="works__hero">
+        <div class="works__info">
+          <h1 class="works__title trim" id="work-title">ASU 1ST ONE-MAN LIVE<br>“BIRTH”</h1>
+          <p class="works__credit trim" id="work-credit">// credit
+
+Art Direction: hiroto sugawara（femt）
+Design: Sonoda（TO2KYO2）
+
+Client:thinkr</p>
+        </div>
+        <p class="works__copyright trim">© SND. ALL RIGHTS RESERVED.</p>
+      </div>
+
+      <button class="works__arrow works__arrow--prev" id="work-prev" type="button" aria-label="前の作品">
+        <img src="assets/arrow-prev.svg" width="80" height="80" alt="">
+      </button>
+      <button class="works__arrow works__arrow--next" id="work-next" type="button" aria-label="次の作品">
+        <img src="assets/arrow-next.svg" width="80" height="80" alt="">
+      </button>
+
+      <section class="works__list" aria-label="Works list">
+        <div class="works__list-label"><span class="trim">works list</span></div>
+        <div class="works__cards" id="work-cards"></div>
+      </section>
+    </div>
+
+    <!-- 画像切り替えのドット。標準表示はコピーライトの下、全体表示では画面右端の縦中央へ移動 -->
+    <div class="pager" id="work-pager" aria-label="画像の切り替え"></div>
+  </main>
+
+  <script src="js/works.js"></script>
+</body>
+</html>
